@@ -1,0 +1,12 @@
+[submodule "codefabric-meteor-common"]
+	path = codefabric-meteor-common
+	url = https://github.com/codefabric/codefabric-meteor-common.git
+[submodule "codefabric-meteor-shopify"]
+	path = codefabric-meteor-shopify
+	url = https://github.com/codefabric/codefabric-meteor-shopify.git
+[submodule "codefabric-meteor-shopify-app"]
+	path = codefabric-meteor-shopify-app
+	url = https://github.com/codefabric/codefabric-meteor-shopify-app.git
+[submodule "codefabric-meteor-shopify-ui-table"]
+	path = codefabric-meteor-shopify-ui-table
+	url = https://github.com/codefabric/codefabric-meteor-shopify-ui-table.git
